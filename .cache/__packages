@@ -1,0 +1,14 @@
+base
+devtools
+slidify
+knitr
+MASS
+HistData
+lattice
+survival
+Formula
+Hmisc
+SparseM
+quantreg
+UsingR
+shiny
